@@ -1,7 +1,7 @@
 name: forgebase_sdk
 description: "The Forgebase Dart/Flutter Client SDK"
 version: 0.0.1
-homepage: "https://the-forgebase.dev"
+homepage: "https://github.com/The-ForgeBase/dart_forgebase_sdk"
 
 environment:
   sdk: ^3.7.2
